@@ -1,2 +1,2 @@
-what Lunga is good
-Merging a branch
+ Lunga is bad
+Merging a string
